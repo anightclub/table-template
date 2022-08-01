@@ -1,0 +1,25 @@
+td {
+    font-family: "Trirong", serif;
+    height: 40px;
+}
+th {
+    font-family: "Audiowide", sans-serif;
+    height: 50px;
+}
+tr:nth-child(odd) {
+    background-color: lightgray;
+}
+h1 {
+    font-family: "Sofia", sans-serif;
+    text-shadow: 3px 3px 3px #ababab;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th {
+    border: 1px solid lightgray;
+}
+body {
+    text-align: center;
+}
